@@ -4,9 +4,9 @@ import 'state.dart';
 
 class FlappyLogic {
   // パラメータ
-  static const double gravity = 0.0012;
+  static const double gravity = 0.0024;
   static const double jumpV = -0.024;
-  static const double pipeSpeed = 0.0066;
+  static const double pipeSpeed = 0.0200;
   static const double gapSize = 0.50;
   static const double birdRadius = 0.04;
   static const double pipeWidth = 0.16;
